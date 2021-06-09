@@ -1,0 +1,32 @@
+[Mon Jun 07 15:52:05.164665 2021] [mpm_event:notice] [pid 3581:tid 139677230017600] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Jun 07 15:52:05.164756 2021] [core:notice] [pid 3581:tid 139677230017600] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 07 15:59:18.812807 2021] [mpm_event:notice] [pid 3581:tid 139677230017600] AH00491: caught SIGTERM, shutting down
+[Mon Jun 07 15:59:18.855762 2021] [mpm_prefork:notice] [pid 14924] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Jun 07 15:59:18.855851 2021] [core:notice] [pid 14924] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 07 15:59:19.265926 2021] [mpm_prefork:notice] [pid 14924] AH00169: caught SIGTERM, shutting down
+[Mon Jun 07 15:59:19.374826 2021] [mpm_prefork:notice] [pid 14991] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Jun 07 15:59:19.374895 2021] [core:notice] [pid 14991] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 07 16:00:56.852934 2021] [mpm_prefork:notice] [pid 14991] AH00169: caught SIGTERM, shutting down
+[Mon Jun 07 16:00:56.964874 2021] [mpm_prefork:notice] [pid 15851] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Jun 07 16:00:56.964918 2021] [core:notice] [pid 15851] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 07 16:52:20.524262 2021] [php7:error] [pid 15852] [client 127.0.0.1:43178] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /var/www/html/Login/index.php on line 36
+[Mon Jun 07 16:52:37.487056 2021] [php7:error] [pid 15853] [client 127.0.0.1:43180] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /var/www/html/Login/index.php on line 38
+[Mon Jun 07 16:55:27.079620 2021] [php7:error] [pid 15854] [client 127.0.0.1:43186] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /var/www/html/Login/index.php on line 48
+[Mon Jun 07 16:55:28.045723 2021] [php7:error] [pid 15856] [client 127.0.0.1:43190] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /var/www/html/Login/index.php on line 48
+[Mon Jun 07 17:32:09.302864 2021] [mpm_prefork:notice] [pid 15851] AH00169: caught SIGTERM, shutting down
+[Tue Jun 08 08:00:45.764497 2021] [mpm_prefork:notice] [pid 983] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Tue Jun 08 08:00:45.764684 2021] [core:notice] [pid 983] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 08 11:01:43.840628 2021] [php7:notice] [pid 7068] [client 127.0.0.1:50944] PHP Notice:  Undefined index: from in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 63
+[Tue Jun 08 11:01:43.840712 2021] [php7:notice] [pid 7068] [client 127.0.0.1:50944] PHP Notice:  Undefined index: to in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 64
+[Tue Jun 08 11:04:23.839210 2021] [php7:notice] [pid 991] [client 127.0.0.1:50954] PHP Notice:  Undefined index: from in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 63
+[Tue Jun 08 11:04:23.839277 2021] [php7:notice] [pid 991] [client 127.0.0.1:50954] PHP Notice:  Undefined index: to in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 64
+[Tue Jun 08 11:05:43.248233 2021] [php7:notice] [pid 8204] [client 127.0.0.1:50970] PHP Notice:  Undefined index: from in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 69
+[Tue Jun 08 11:05:43.248262 2021] [php7:notice] [pid 8204] [client 127.0.0.1:50970] PHP Notice:  Undefined index: to in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 70
+[Tue Jun 08 11:06:14.647219 2021] [php7:notice] [pid 7068] [client 127.0.0.1:50974] PHP Notice:  Undefined index: from in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 69
+[Tue Jun 08 11:06:14.647271 2021] [php7:notice] [pid 7068] [client 127.0.0.1:50974] PHP Notice:  Undefined index: to in /var/www/html/lesson2.module2/lesson2/Loc_danh_sach_khach_hang/index.php on line 70
+[Tue Jun 08 16:11:42.406179 2021] [php7:notice] [pid 8203] [client 127.0.0.1:52218] PHP Notice:  Undefined offset: 0 in /var/www/html/lesson1.module2/from_number_to_text/index.php on line 73, referer: http://localhost/lesson1.module2/from_number_to_text/index.php?_ijt=ua13pbpeu29ubas6a2214682vr
+[Tue Jun 08 16:11:42.406261 2021] [php7:notice] [pid 8203] [client 127.0.0.1:52218] PHP Notice:  Undefined offset: 0 in /var/www/html/lesson1.module2/from_number_to_text/index.php on line 73, referer: http://localhost/lesson1.module2/from_number_to_text/index.php?_ijt=ua13pbpeu29ubas6a2214682vr
+[Tue Jun 08 16:11:45.001114 2021] [php7:notice] [pid 8203] [client 127.0.0.1:52218] PHP Notice:  Undefined offset: 0 in /var/www/html/lesson1.module2/from_number_to_text/index.php on line 73, referer: http://localhost/lesson1.module2/from_number_to_text/index.php?_ijt=ua13pbpeu29ubas6a2214682vr
+[Tue Jun 08 16:11:45.001140 2021] [php7:notice] [pid 8203] [client 127.0.0.1:52218] PHP Notice:  Undefined offset: 0 in /var/www/html/lesson1.module2/from_number_to_text/index.php on line 73, referer: http://localhost/lesson1.module2/from_number_to_text/index.php?_ijt=ua13pbpeu29ubas6a2214682vr
+[Tue Jun 08 16:14:32.305245 2021] [php7:notice] [pid 990] [client 127.0.0.1:52260] PHP Notice:  Undefined offset: 0 in /var/www/html/lesson1.module2/from_number_to_text/index.php on line 73, referer: http://localhost/lesson1.module2/from_number_to_text/index.php?_ijt=ua13pbpeu29ubas6a2214682vr
+[Tue Jun 08 16:14:32.305371 2021] [php7:notice] [pid 990] [client 127.0.0.1:52260] PHP Notice:  Undefined offset: 0 in /var/www/html/lesson1.module2/from_number_to_text/index.php on line 73, referer: http://localhost/lesson1.module2/from_number_to_text/index.php?_ijt=ua13pbpeu29ubas6a2214682vr
